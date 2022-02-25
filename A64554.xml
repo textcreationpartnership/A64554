@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Independent-agent, or, William Haworth's malice, out-rage, and slander against the people called Quakers (in his late book, falsly stiled, Jesus of Nazareth not the Quakers Messiah) rebuked</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64554</idno>
+            <idno type="STC">Wing T970A</idno>
+            <idno type="STC">ESTC R9699</idno>
+            <idno type="EEBO-CITATION">13282974</idno>
+            <idno type="OCLC">ocm 13282974</idno>
+            <idno type="VID">98778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 440:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Independent-agent, or, William Haworth's malice, out-rage, and slander against the people called Quakers (in his late book, falsly stiled, Jesus of Nazareth not the Quakers Messiah) rebuked</title>
+                  <author>Thomas, Richard, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Richard Thomas, H. Sweeting, Richard Martin, Edw. Plumsted, Henry Stout. Hartford, the 10th of the 9th moneth, 1677.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Haworth, William. --  Jesus of Nazareth not the Quakers Messiah.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98778:1"/>
+            <pb facs="tcp:98778:1" rendition="simple:additions"/>
+            <head>THE Independent-Agent: Or, <hi>William Haworth</hi>'s Malice, Out-rage and Slander againſt the People called <hi>Quakers</hi> (in his late Book, falſly ſtiled, <hi>Jeſus of</hi> Nazareth <hi>not the</hi> Quakers <hi>Meſſiah)</hi> Rebuked.</head>
+            <epigraph>
+               <bibl>Jer. 48. 30.</bibl>
+               <q>I know his VVrath, but his Eyes ſhall not ſo effect it.</q>
+               <bibl>Rom. 1. 29.</bibl>
+               <q>Being filled with maliciouſneſs, full of envy, murder, debate, deceit.</q>
+            </epigraph>
+            <p>FOraſmuch as on the occaſion of our <hi>Anſwers</hi> and <hi>Replyes</hi> to <hi>William Haworth</hi>'s Books and Pamphlets againſt the People called <hi>Quakers,</hi> he gives us occaſion to charge his Miſcarriages and Abuſes upon you of the <hi>Independent</hi> Party, not only in theſe words, viz. <hi>[The Notes of my Antidote were viewed by one learned in Chriſt's School, and I had his Approbation; he did judge it ſound, and encouraged me to print it,</hi> (but alſo he ſaith) <hi>You may well ſay, that you have all this while waged War not only with ſingle</hi> W. H. <hi>but with all the</hi> Independent <hi>Party in</hi> Eng<g ref="char:EOLhyphen"/>land—<hi>I need not fear but I ſhall have their Prayers, and Encourag<g ref="char:EOLhyphen"/>ment to ſtand by one in Chriſt's Cauſe, &amp;c.</hi> p. 38, 39.</p>
+            <p>Now <hi>Independents,</hi> behold your Agent, who after divers ma<g ref="char:EOLhyphen"/>nifeſt Abuſes, Perverſions, falſe and unfair Citations, Variations and Corruptions on many ſerious Paſſages in our Books, to make our words look with as deformed and ugly a Face as he can, he thus charges the <hi>Quakers</hi> with preaching, <hi>That the Ordinances of the Goſpel are vain, and ceaſe;</hi> for this he cites <hi>William Penn lately</hi> (which W. P. flatly denies, as none of his Words or Do<g ref="char:EOLhyphen"/>ctrine) <hi>That it was the Devil that ſuffered without the Gates, &amp;c.
+<pb n="2" facs="tcp:98778:2" rendition="simple:additions"/> That</hi> Mary <hi>was a</hi> Whore <hi>and</hi> Chriſt <hi>a</hi> Baſtard; for this he cites <hi>James Naylor</hi> at <hi>York;</hi> with this additional and more general C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arge annexed, <hi>viz.</hi> THESE ARE THE <hi>Q<g ref="char:V">Ʋ</g>AKERS</hi> DOC<g ref="char:EOLhyphen"/>TRINES—<hi>Here are enough to turn any Chriſtians Stomach</hi> (ſaith he) And to aggravate the matter againſt the People called Qua<g ref="char:EOLhyphen"/>kers, <hi>If he had preached ſuch Doctrine, he had deſerved to have been dealt with (in caſe that Law ſhould now take place) as a Blaſphemer, that is, be ſtoned to death;</hi> ſee his laſt Book, <hi>Jeſ. of</hi> Naz. p. 45.</p>
+            <p>To all which in the ſight and preſence of the holy God we an<g ref="char:EOLhyphen"/>ſwer, We are confident his Charge is horribly falſe in and upon the particulars, and certain that 'tis an abominable Slander in that general Charge upon the <hi>Quakers;</hi> and he hath moſt infamouſly abuſed us in this matter, in ſaying, <hi>Theſe are the Quakers Doctrines,</hi> which we teſtifie againſt, as ſo groſs and abominable that nothing like them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath entred into our Hearts even to imagine, much leſs to preach for Doctrine, viz. <hi>That it was the Devil that ſuffered without the Gates, &amp;c. and that</hi> Mary <hi>was a</hi> Whore, <hi>and</hi> Chriſt <hi>a</hi> Baſtard: and yet he tells the World, <hi>Theſe are Quakers Doctrines.</hi> What abominable wickedneſs is this! thus to make infamous a People who abhor ſuch Blaſphemy, But what ! <hi>Independents,</hi> is his and your Envy ſo great, that you would have u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtoned to death? would you exceed your Brethren in <hi>New-England,</hi> who brought the innocent Blood of ſome of our Friends upon them? 'Tis a wonder you do not ſor ſhame ſtop this your <hi>Agent,</hi> who appears full of Paſſion, Envy and Revenge, makes no Conſcience to write Lyes and Slanders, a proud inſolent Boaſter, no Credit nor Grace to you <hi>Independents</hi> or your Cauſe, who are chargeable with his abuſes, till you have cleared your ſelves of them. Why have you ſlandered and abuſed a People thus? will nothing leſs ſatisfie you then to have us ſtoned to death for Blaſphemers? and why do you treat u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with ſuch Language as, <hi>meer Juglers; Decei<g ref="char:EOLhyphen"/>vers of the People; the</hi> Quakers <hi>down-right</hi> Socinians; <hi>Hereticks; nothing but deceit in theſe men; they never had any credit among godly men; Enemies to the Croſs of Chriſt; down-right Knavery; Not eat, nor drink, nor keep company with them, but abhor their Socie<g ref="char:EOLhyphen"/>ty as of a</hi> Jew, Turk or Heathen—John C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook'<hi>s impertinent foribling, jugling, equivocating, like a man, yet no man, the uglieſt of
+<pb n="3" facs="tcp:98778:2"/> all—their great Goddeſs</hi> Diana, <hi>the Light within—ſeared Conſcience, rotten Opinion—A company of Cheats—The rank<g ref="char:EOLhyphen"/>eſt</hi> Jeſuit <hi>at</hi> Rom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>could <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot have more wicked inſinuations then the</hi> Quakers.</p>
+            <p>Theſe, with many more Slanders and Revilings are diſperſt throughout W. H's laſt Book; who notwithſtanding he has gi<g ref="char:EOLhyphen"/>ven ſuch abſolute Judgment againſt the Quakers, as <hi>denying the man Chriſt, ſetting up a falſe and fained one;</hi> calling them <hi>Juglers, D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceivers, C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ats, &amp;c.</hi> yet now he reckons, <hi>there is ground of a ſhrewd</hi> SUSPITION, <hi>that they do not believe Jeſus Chriſt to be a real man in the Heavens,</hi> p. 1. and begins to be <hi>JEALO<g ref="char:V">Ʋ</g>S</hi> of us, <hi>whe<g ref="char:EOLhyphen"/>ther we do but think that any thing at all was taken of the Virgin,</hi> p. 5. and <hi>that one would</hi> THINK, <hi>and he</hi> BELIEVES <hi>that the</hi> Quakers <hi>are of the ſame mind with</hi> Apollinaries, <hi>holding, that Jeſus Chriſt had not a Living Soul,</hi> p. 14. and <hi>would fain be</hi> SATISFIED <hi>that we are real when we ſay [the ſame Jeſus]</hi> p. 12. <hi>That according to us, till we fu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther</hi> EXPLAIN <hi>our ſelves, Jeſus Chriſt neither is now, nor ever was a true real man,</hi> p. 14. <hi>And he</hi> APPREHENDS, <hi>that we nulliſie both, that is, Chriſts Fleſh and Blood,</hi> p. 18. <hi>And he</hi> FEARS <hi>that monſtrous Opinion of the</hi> Ranters <hi>is amongſt the</hi> Quakers, <hi>of being Deified and Chriſtheaded,</hi> p. 23. <hi>And he is</hi> JEA<g ref="char:EOLhyphen"/>LOUS <hi>that our Opinion is, that when God breathed into</hi> Adam <hi>the Breath of Life, and man became a living ſoul, that this is the forming of Chriſt in every man, and entreats us to explain our ſelves,</hi> p. 36, &amp;c.</p>
+            <p>Obſerve now that he has cenſured and judged us in theſe mat<g ref="char:EOLhyphen"/>ters from his own Suſpition, Jealouſie, Thinking, Apprehenſion and Fears: and in the preſence of God we deny theſe his falſe Jea<g ref="char:EOLhyphen"/>louſies and Surmiſings, as well in theſe particulars cited, as in ma<g ref="char:EOLhyphen"/>ny other things not here cited; and we cannot expect he will have any good thoughts of us, while his Envy is ſo great as to judge us <hi>Juglers, Cheats, Deceivers, &amp;c. Donyers of the man Chriſt Jeſus, &amp;c.</hi> But now how uncertain and doubtful is this man; his high Charges, Clamours and Out-cries againſt us are turned into Suſ<g ref="char:EOLhyphen"/>pition, Jealouſies, Thoughts and Fear, &amp;c. for want of further ex<g ref="char:EOLhyphen"/>planation, and would ſain be ſatisfied that we are real, &amp;c. But his ſaying that <hi>he fears that monſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rous Opinion of the</hi> Ranters <hi>is a<g ref="char:EOLhyphen"/>mongst the</hi> Quakers, <hi>&amp;c.</hi> is a very groſs Lye to be ſure; for he is
+<pb n="4" facs="tcp:98778:3"/> ſo far from fearing it, that he ſeeks to make us as monſtrous and ugly as he can in our Opinions, telling the World, that theſe are the <hi>Quakers</hi> Doctrines before-cited, viz. <hi>That it was the Devil that ſuffered without the Gates; That</hi> Mary <hi>was a</hi> Whore, <hi>and</hi> Chriſt <hi>a</hi> Baſtard; intimating that we deſerve to be <hi>ſtoned to death.</hi> Oh moſt malicious Lyer and Slanderer! We dread at the recital of theſe Blaſphemies. Well, God will ſmite thee and mark thee out for theſe moſt horrible and abominable Slanders.</p>
+            <p>And as for thy deeming it high time that <hi>our Neſt at Hertford were broken up by a conſtant writing and diſputing againſt our Errors</hi> (as thou calleſt them) Thy writing and publiſhing groſs Lyes will not do it, we are ſure. But why <hi>our Neſt at</hi> Hertford <hi>broken up?</hi> doſt thou envy our Liberty and our Meetings? wouldſt thou diſturb us, and pull thy Houſe about thy Ears, like the clamorous Woman? wouldſt thou be ſo dealt by? do not bark too loud at us: why doſt thou belch out thy Malice thus? we fear thee not thou mali<g ref="char:EOLhyphen"/>cious man and implacable apoſtate-Perſecutor (who haſt confeſſed, <hi>thou haſt been Ten times a Quaker,</hi> p. 46.) Couldſt thou not find in thy heart to take up the firſt Stone, and become our Executioner) if thou hadſt Power and Licence, as well as endeavour to poſſeſs the world, that we teach ſuch Blaſphemies as deſerve ſtoning to death? Is this your Independent-Religion and Chriſtianity? what ſay you Independent. Teachers and Paſtors, <hi>John Owen, Matthew Mead, T. Brooks, Jo. Collins,</hi> and the reſt? will it grace your Cauſe to ſuffer ſuch an <hi>Agent</hi> as W. H. to be your Repreſentative, for all the Independent-Party in <hi>England?</hi> not doubting of your Prayers and Encouragement, &amp;c.</p>
+            <p>In the next place we demand of <hi>William Haworth,</hi> or any of you, to quote our Books and the Pages (and cite them in our own words if you can) where he or you have read theſe paſſages, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n which much of his Book and Inferences depend, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>That what was taken of the Virgin hath now no Being, which</hi> (he ſayes) <hi>he has read in our Books,</hi> p. 5. l. 8. We challenge him to produce thoſe Books and Pages where theſe words are; for we deny the Aſſertion.</p>
+            <p n="2">2. That <hi>when we ſay, the ſame Man aſcended to Heaven, and i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glorified in Heaven,</hi> it is <hi>no more th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this,</hi> viz, <hi>that the Light
+<pb n="5" facs="tcp:98778:3"/> within is lifted up, exalted and glorified in the hearts of men.</hi> And that <hi>by [his aſcending to Heaven] we mean the Globe, which we call the Earth]</hi> p. 15. clauſe laſt. A notorious Perverſion and Falſ<g ref="char:EOLhyphen"/>hood: for by <hi>[the ſame Man aſcending]</hi> (in our Teſtimony) we meant ſimply the viſible Aſce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion of the Man Chriſt Jeſus, as we have told him, <hi>viz.</hi> 
+               <q>We could not more plainly and hiſtori<g ref="char:EOLhyphen"/>cally have ſignified our meaning, then we did from theſe Scrip<g ref="char:EOLhyphen"/>tures, <hi>Acts</hi> 1. 9, 10. <hi>Luke</hi> 24. 50, 51. ſee our <hi>Vindication,</hi>
+               </q> pag. 15.</p>
+            <p n="3">3. He bids the Reader <hi>take notice, that here is not a word againſt that meaning that be aſcribed to the</hi> Quakers <hi>words They debt not but that they do mean this of the Light within,</hi> p. 16. l. 1, &amp;c.</p>
+            <p>Which is a groſs Lye; ſee pag. 15 &amp; 16. of our <hi>Vindication</hi> in the very ſame paſſage, <hi>viz.</hi> where we have plainly declared, <q>That the ſame Man Chriſt that ſuffered and was put to Death in the Fleſh, was raiſed by the mighty Power of God, aſcended into Heaven, aſcended, that is, both as to the change of place and ſtate of glory, &amp;c. That the Myſtery of Chriſt in Spirit no wayes oppoſes the Hiſtory of Chriſt in the Fleſh.—See</q> how plain our words are</p>
+            <p n="4">4. <hi>That the</hi> Quakers <hi>ſay the Soul is turn'd into i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>menſity,</hi> p. 32. l. 32.</p>
+            <p>Where do the <hi>Quakers</hi> ſay theſe words? let him ſhew us with<g ref="char:EOLhyphen"/>out his inference: For 'tis matter of Fact charged that they ſay ſo.</p>
+            <p n="5">5. <hi>That he remembers one of</hi> G. Fox's <hi>Interpretations, that when 'tis ſaid, he took upon him the Seed of</hi> Abraham, <hi>that Seed was the Light within,</hi> p. 37. l. 6, 7.</p>
+            <p>Where does G. F. ſo interpret that Scripture; for we do not believe he ever did ſo.</p>
+            <p n="6">6. <hi>That we ſay in our Books, that the Light within that Body was crucified,</hi> p. 37, 38.</p>
+            <p>Pray let's have the Book and Pages cited; for we deny that we have ſo ſaid, or ſo conſtrued Chriſts dying on the Croſs.</p>
+            <p n="7">7. <hi>That now the</hi> Quakers <hi>ſay, that what</hi> Paul <hi>ſaith in</hi> Rom. 4. 6. <hi>is contrary to what</hi> David <hi>ſaith in</hi> Pſal. 32. 2. p. 8, 9.</p>
+            <p>Pray, where do the <hi>Quakers</hi> ſay ſo?</p>
+            <p n="8">8. <hi>That he would fain be ſatisfied that we are real, when we ſay,
+<pb n="6" facs="tcp:98778:4"/>
+[the ſame Jeſus] but how can he when we unſay it again in our 1ſt and 2d Book,</hi> p. 12. l. 19.</p>
+            <p>That <hi>we unſay it again,</hi> is a notorious Falſhood. We challenge him to cite our own words, without his own Perverſions, Mean<g ref="char:EOLhyphen"/>ing or Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſequencess, to be conſidered by Perſons more ingenuous and leſs malicious then himſelf.</p>
+            <p n="9">9. That <hi>William Bates</hi> faith, he is ONLY SORRY <hi>for his Weakneſs and Overſight in giving him ſuch an Anſwer,</hi> p. 10.</p>
+            <p>A Forgery; for he adds, <hi>only ſorry;</hi> and makes himſelf work on this Lye.</p>
+            <p>And what's the man's Intent in all theſe, but to purſue his falſe Title and Charge, viz. <hi>That Jeſus of</hi> Nazareth <hi>is not the</hi> Quakers Meſſiah, <hi>&amp;c.</hi> or that they <hi>deny</hi> him to be the Meſſiah; and that they <hi>did deny the</hi> Manhood <hi>of Chriſt;</hi> and ſo to render us as not owning his real outward Birth, Sufferings, Reſurre on, <hi>&amp;c</hi> with his whole Manifeſtation in the Fleſh: Wherein he hath a<g ref="char:EOLhyphen"/>bominably abuſed us; For the Man Chriſt Jeſus, the Meſſiah, the Anointed of God, we have confeſſed unto, and faithfully be<g ref="char:EOLhyphen"/>lieve, according to the Scriptures of Truth, <hi>viz.</hi> thoſe of all the holy Prophets and Apoſtles, who gave teſtimony of him, the true Meſſiah. Wherefore let our Adverſary confeſs the Man Chriſt Jeſus, in plain Scripture-terms, and leave us to them, or elſe he may be ſilent. For we value not all his Cavils and Scrib<g ref="char:EOLhyphen"/>ling, <hi>&amp;c.</hi> eſpecially unleſs ſome of his eminent Teac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Bre<g ref="char:EOLhyphen"/>thren appear in print to own this his laſt Book, and the reſt of his Work againſt us: and therefore we challenge him to produce his Deputation for this his undertaking againſt us under the Hands of ſome of the chief Paſtors of the <hi>Independent<g ref="char:punc">▪</g>
+               </hi> Congregation, or otherwiſe we ſhall abſolutely look upon his Work as the Fruit of his own ſilly Preſumption and Uſurpation.</p>
+            <p>We have alſo a Collection of a great number more of W. H's Lyes and Perverſions in a more particular <hi>Anſwer,</hi> which as yet we reſerve; the ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtance of his Book about Chriſt's Manhood being more fully anſwered in a Book ſtiled, <hi>The Way caſt up, and the Stu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bling-blocks removed,</hi> by <hi>Geo. Keith.</hi>
+            </p>
+            <p>Reader, We ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e taken notice of W. H's Doctrines more at large in our <hi>Anſwer</hi> which we yet reſerve, and of theſe amongſt others, <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <pb n="7" facs="tcp:98778:4"/>1. As concerning his juſtifying his Brother <hi>Powel's blaſphe<g ref="char:EOLhyphen"/>mous Doctrine,</hi> and yet cunningly leaves out the words, to wit, That JESUS CHRIST WAS THE GREATEST SINNER IN THE WORLD, pag. 10.</p>
+            <p n="2">2. Concerning ſome of them ſaying, <hi>That the Creator was and is a Creature by a Figure,</hi> which he is fain frequently to make uſe of in his Book, pag. 2.</p>
+            <p n="3">3. Concerning his Unſcriptural and Socinian aſſertion, <hi>That the Soul of the Son of God's manhood</hi> (that is to ſay, the <hi>Soul of the man Chriſt) was created upon the firſt Conception of the Body in the Womb of the Virgin.</hi> On which we ask, If he was not a Mediator before that Conception and Birth, even from the Beginning?</p>
+            <p n="4">4. Concerning our Conſequence drawn upon him, of his al<g ref="char:EOLhyphen"/>lowing Satan more Power or Liberty to tempt the Saints, then the Man Chriſt to help them, by ſo much as extending his Spirit unto them as Man, though beyond meaſure indued with divine Power; becauſe he calls the Soul of the Man Chriſt <hi>a finite Creature, that cannot be in two places at once,</hi> p, 29. &amp; yet con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſeth Satan to be an <hi>Angel,</hi> yet but a <hi>Creature,</hi> (p. 36.) and notwithſtanding that he is here on Earth to tempt the Saints, becauſe he is not yet bound up in Hell; ſo that ſtill he allows Satan more power to tempt the Saints (though in many places at once far diſtant) then the Man Chriſt to relieve them, though he be their Mediator and Head; and yet g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ants, that the Man Chriſt is virtually preſent on Earth, pag. 20. How then does not his Soul extend to the Saints, and yet not <hi>leave the Body dead in Heaven,</hi> as he vainly argues, p. 35.</p>
+            <p n="5">5. We obſerve that his Doctrine deſtroyeth the Order of the Mediator, and Chriſts Headſhip over h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Church, where the Head of every man is Chriſt, and the Head of Chriſt is God; for he allows his Spirit only as God, but not as Man to extend unto them; and yet how apparently he is confounded, and his Cauſe oveturned, by his confeſſing, <hi>that the Deity perfects all good in it, but then the Humanity is in union with it, and acts with it, and they muſt not be put aſſunder; and</hi> 
+               <note place="margin">Antidote, pag. 28.</note> 
+               <hi>that the Deity acts in it or through it as an. Organ or Inſtrument,</hi> Pag. 26, 27. But how can this be in
+<pb n="8" facs="tcp:98778:5"/> perfecting all good in us, if this Inſtrument, as ſuch, does not at all reach to us? and his ſimilitude in this caſe <hi>[that the Sun in the firmament can ſend forth light and heat throughout the Hemiſpire, &amp;c. and that this ſimilitude falls ſhort very much]</hi> this alſo tends to deſtroy his Cauſe, and to invalid his Objection (to wit. <hi>That the Humanity</hi> (or Manhood) <hi>is not in all places where the Deity is]</hi> unleſs it be a good inference, that ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore it cannot extend to men on Earth, but is far ſhort of the Power and Influence of the Sun which extends to us; and yet this ſimilitude is very much ſhort of the thing he brings it for too; for Chriſts very Body in Heaven he hath confeſſed to be <hi>brighter then a Thouſand Suns, Antid.</hi> How evident is it that this man is ſtill drowned in Confu<g ref="char:EOLhyphen"/>ſion and Darkneſs.</p>
+            <p>And thus we have given him one ſheet in anſwer to his fix ſheets and an half, not judging him worthy at preſent of the publication of our larger <hi>Anſwer,</hi> by reaſon he is ſuch an abominable Slan<g ref="char:EOLhyphen"/>derer of an innocent People.</p>
+            <closer>
+               <dateline>Hartford, <date>the 10th of the 9th moneth, 1677.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Richard Thomas,</item>
+                     <item>H. Sweeting,</item>
+                     <item>Richard Martin,</item>
+                     <item>Edw, Plumſtod,</item>
+                     <item>Henry Stout.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:98778:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
